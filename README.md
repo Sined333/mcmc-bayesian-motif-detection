@@ -27,5 +27,4 @@ This repository hosts a production-grade probabilistic framework designed to mod
 ```text
 ├── code                    # Code for the second part of the project
 ├── README.md               # Engineering report & mathematical documentation
-├── report.pdf              # Report in french
-└── statement               # Guidelines of the project   
+└── report.pdf              # Report in french  
